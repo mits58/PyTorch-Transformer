@@ -1,4 +1,3 @@
-# Transformer_PyTorch
 An implementation of transformer in PyTorch
 
 ## PyTorchで言語データを扱うには？
